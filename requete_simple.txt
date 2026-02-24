@@ -1,0 +1,7 @@
+select * from processed_data;
+
+Select count(*) from processed_data
+
+select Filiere_de_production, sum(Nombre_points_injection) as Nb_points_injection 
+from processed_data
+group by Filiere_de_production;
