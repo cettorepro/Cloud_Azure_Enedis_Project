@@ -1,0 +1,3 @@
+Un point d'injection Enedis est une référence géographique unique désignant l'endroit où un utilisateur peut injecter de l'électricité dans le réseau, sans être un ouvrage physique.
+
+https://data.enedis.fr/pages/agregats-de-production-au-pas-demi-heure/
