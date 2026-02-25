@@ -4,7 +4,7 @@
 
 Ce projet analyse les points d’injection d’électricité raccordés au réseau de Enedis, avec un focus sur la région Occitanie.
 
-L’objectif est de :
+### L’objectif est de :
 
 - Comprendre l’évolution du nombre de points d’injection
 
